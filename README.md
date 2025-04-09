@@ -1,6 +1,6 @@
 ## Tecnicas y herramientas 
 # Grupo SURESTE 
-* Santiago Martin 13933 (melman el perro)
+* Santiago Martin 13933 
 <img src="https://github.com/user-attachments/assets/ccab1902-9eb9-4f92-bf6f-d075606c4d24" width="200"> <br>
 * Briccola Lorenzo 13780
 <img src="https://github.com/user-attachments/assets/e68cb927-7555-450e-8d3e-9535fde2023d" width="200"> <br>
